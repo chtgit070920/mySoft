@@ -1,2 +1,2 @@
 #introduction
-these are my commonly used software.
+these are my commonly used softwares.

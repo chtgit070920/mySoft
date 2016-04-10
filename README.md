@@ -1,2 +1,2 @@
 #introduction
-this is my softs usually.
+these are my commonly used software.
